@@ -1,0 +1,6 @@
+streamlit
+yfinance
+stumpy
+pandas
+numpy
+matplotlib
